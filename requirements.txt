@@ -8,5 +8,5 @@ scikit-learn
 tensorboard
 matplotlib
 seaborn
-streamlit
+streamlit>1.30.0
 ipykernel
