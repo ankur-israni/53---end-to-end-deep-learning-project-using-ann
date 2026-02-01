@@ -59,8 +59,6 @@ ipython_config.py
 ############################
 # ML artifacts / models
 ############################
-*.pkl
-*.pickle
 *.joblib
 *.h5
 *.hdf5
